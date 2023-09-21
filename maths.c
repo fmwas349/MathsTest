@@ -122,5 +122,7 @@ int checkAnswer(char ch,int num1,int num2){
 void mainMenu() {printf("\n\nWelcome to Maths Tester Pro\nSelect a difficulty\n1) Easy\n2) Medium\n3) Hard\n4) Exit\n");}
 
 
-
+void forkMessage(){
+printf("This is a forked repo");
+}
 
